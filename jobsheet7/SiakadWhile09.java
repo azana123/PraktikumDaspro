@@ -14,9 +14,6 @@ public class SiakadWhile09 {
             nilai = sc.nextInt();
         
         if (nilai < 0 || nilai > 100) {
-            
-        }
-        if (nilai > 80 && nilai <= 100) {
             System.out.println("Nilai mahasiswa tidak valid. Masukan lagi nilai yang valid!");
             continue;
         }
