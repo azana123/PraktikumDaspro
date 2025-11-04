@@ -26,5 +26,6 @@ public class KafeDoWhile09 {
             sc.nextLine();
         }while (true);
         System.out.println("Semua transaksi selesai.");
+        sc.close();
     }
 }

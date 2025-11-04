@@ -1,3 +1,4 @@
+import java.io.ObjectInputFilter.Status;
 import java.util.Scanner;
 
 public class ArrayNilai09 {
